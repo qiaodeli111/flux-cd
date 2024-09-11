@@ -10,4 +10,4 @@ spec:
   sourceRef:
     kind: GitRepository
     name: flux-deploy-nginx
-  targetNamespace: default
+  targetNamespace: flux-cd
